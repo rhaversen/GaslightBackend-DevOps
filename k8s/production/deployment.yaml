@@ -28,7 +28,7 @@ spec:
                         requests:
                             cpu: "250m"
                             memory: "200M"
-                    image: "rhaversen/gaslight-backend:1649a435a1f9e47a1d5358e3aa7bfe8303ff04ff"
+                    image: "rhaversen/gaslight-backend:134f1d1d9ff534f2a90bb7118f5f9419b17a13b3"
                     imagePullPolicy: Always
                     livenessProbe:
                         httpGet:
